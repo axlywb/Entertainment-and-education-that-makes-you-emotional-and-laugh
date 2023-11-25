@@ -23,7 +23,7 @@ Access Control: Implement role-based access controls to ensure secure and author
 Adaptive Streaming: Enable adaptive streaming to optimize video quality on chain with livepeer and based on the user's internet connection speed.
 
 
-# 5. Payment Integration
+# 4. Payment Integration
 
 Subscription Management: Integrate a subscription-based model for premium content access.
 
