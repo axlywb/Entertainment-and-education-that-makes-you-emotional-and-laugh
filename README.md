@@ -27,7 +27,7 @@ Adaptive Streaming: Enable adaptive streaming to optimize video quality on chain
 
 Subscription Management: Integrate a subscription-based model for premium content access.
 
-Payment Gateway: Supports multiple payment methods with TON and Solana secure for subscription fees and one-time purchases.
+Payment Gateway: Supports multiple payment methods with TON and polygon,Solana secure for subscription fees and one-time purchases.
 
 this provides a glimpse
 
